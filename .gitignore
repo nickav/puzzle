@@ -1,0 +1,19 @@
+_Apk2BarVerifier_*
+BB10/
+keystore*
+bin/
+gen/
+dist/
+*.dex
+*.class
+*.apk
+local.properties
+
+# eclipse stuff
+.project
+*.swp
+*.tmp
+*.bak
+.settings
+*.launch
+.classpath
